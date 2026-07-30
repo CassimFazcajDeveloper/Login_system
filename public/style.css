@@ -30,3 +30,26 @@ h2{
     font-weight: bold;
     margin-bottom: 5px;
 }
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    font-size: 10px;
+
+}
+.submit-btn {
+    display: block;
+    padding: 8px;
+    width: 100%;
+    background-color: #472dbb;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.submit-btn:hover {
+    background-color: #4565a0;
+}
+p{
+    margin-top: 10px;
+}
